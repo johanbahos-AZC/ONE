@@ -1,0 +1,834 @@
+[2025-10-14 20:09:07] Auth: Conexión a BD establecida
+[2025-10-14 20:09:07] redirectIfNotLoggedIn called
+[2025-10-14 20:09:07] isLoggedIn check: TRUE
+[2025-10-14 20:09:07] Functions class initialized
+[2025-10-14 20:09:07] Auth: Conexión a BD establecida
+[2025-10-14 20:09:07] Functions class initialized
+[2025-10-14 20:09:34] Auth: Conexión a BD establecida
+[2025-10-14 20:09:34] redirectIfNotLoggedIn called
+[2025-10-14 20:09:34] isLoggedIn check: TRUE
+[2025-10-14 20:09:34] Functions class initialized
+[2025-10-14 20:09:34] Auth: Conexión a BD establecida
+[2025-10-14 20:09:34] Functions class initialized
+[2025-10-14 20:11:18] Auth: Conexión a BD establecida
+[2025-10-14 20:11:18] redirectIfNotLoggedIn called
+[2025-10-14 20:11:18] isLoggedIn check: TRUE
+[2025-10-14 20:11:19] Auth: Conexión a BD establecida
+[2025-10-14 20:11:19] redirectIfNotLoggedIn called
+[2025-10-14 20:11:19] isLoggedIn check: TRUE
+[2025-10-14 20:11:19] Functions class initialized
+[2025-10-14 20:11:19] Auth: Conexión a BD establecida
+[2025-10-14 20:11:19] Functions class initialized
+[2025-10-14 20:11:19] Auth: Conexión a BD establecida
+[2025-10-14 20:11:19] redirectIfNotLoggedIn called
+[2025-10-14 20:11:19] isLoggedIn check: TRUE
+[2025-10-14 20:11:24] Auth: Conexión a BD establecida
+[2025-10-14 20:11:24] redirectIfNotLoggedIn called
+[2025-10-14 20:11:24] isLoggedIn check: TRUE
+[2025-10-14 20:11:25] Auth: Conexión a BD establecida
+[2025-10-14 20:11:25] redirectIfNotLoggedIn called
+[2025-10-14 20:11:25] isLoggedIn check: TRUE
+[2025-10-14 20:11:26] Auth: Conexión a BD establecida
+[2025-10-14 20:11:26] redirectIfNotLoggedIn called
+[2025-10-14 20:11:26] isLoggedIn check: TRUE
+[2025-10-14 20:11:27] Auth: Conexión a BD establecida
+[2025-10-14 20:11:27] redirectIfNotLoggedIn called
+[2025-10-14 20:11:27] isLoggedIn check: TRUE
+[2025-10-14 20:11:29] Auth: Conexión a BD establecida
+[2025-10-14 20:11:29] redirectIfNotLoggedIn called
+[2025-10-14 20:11:29] isLoggedIn check: TRUE
+[2025-10-14 20:11:40] Auth: Conexión a BD establecida
+[2025-10-14 20:11:40] redirectIfNotLoggedIn called
+[2025-10-14 20:11:40] isLoggedIn check: TRUE
+[2025-10-14 20:11:45] Auth: Conexión a BD establecida
+[2025-10-14 20:11:45] redirectIfNotLoggedIn called
+[2025-10-14 20:11:45] isLoggedIn check: TRUE
+[2025-10-14 20:11:45] Functions class initialized
+[2025-10-14 20:11:45] Auth: Conexión a BD establecida
+[2025-10-14 20:11:45] Functions class initialized
+[2025-10-14 20:11:46] Auth: Conexión a BD establecida
+[2025-10-14 20:11:46] redirectIfNotLoggedIn called
+[2025-10-14 20:11:46] isLoggedIn check: TRUE
+[2025-10-14 20:11:56] Auth: Conexión a BD establecida
+[2025-10-14 20:11:56] redirectIfNotLoggedIn called
+[2025-10-14 20:11:56] isLoggedIn check: TRUE
+[2025-10-14 20:12:06] Auth: Conexión a BD establecida
+[2025-10-14 20:12:06] redirectIfNotLoggedIn called
+[2025-10-14 20:12:06] isLoggedIn check: TRUE
+[2025-10-14 20:12:16] Auth: Conexión a BD establecida
+[2025-10-14 20:12:16] redirectIfNotLoggedIn called
+[2025-10-14 20:12:16] isLoggedIn check: TRUE
+[2025-10-14 20:12:26] Auth: Conexión a BD establecida
+[2025-10-14 20:12:26] redirectIfNotLoggedIn called
+[2025-10-14 20:12:26] isLoggedIn check: TRUE
+[2025-10-14 20:12:47] Auth: Conexión a BD establecida
+[2025-10-14 20:12:47] redirectIfNotLoggedIn called
+[2025-10-14 20:12:47] isLoggedIn check: TRUE
+[2025-10-14 20:12:47] Auth: Conexión a BD establecida
+[2025-10-14 20:12:47] redirectIfNotLoggedIn called
+[2025-10-14 20:12:47] isLoggedIn check: TRUE
+[2025-10-14 20:12:56] Auth: Conexión a BD establecida
+[2025-10-14 20:12:56] redirectIfNotLoggedIn called
+[2025-10-14 20:12:56] isLoggedIn check: TRUE
+[2025-10-14 20:19:38] Auth: Conexión a BD establecida
+[2025-10-14 20:19:38] redirectIfNotLoggedIn called
+[2025-10-14 20:19:38] isLoggedIn check: TRUE
+[2025-10-14 20:19:38] Functions class initialized
+[2025-10-14 20:19:38] Auth: Conexión a BD establecida
+[2025-10-14 20:19:38] Functions class initialized
+[2025-10-14 20:19:38] Auth: Conexión a BD establecida
+[2025-10-14 20:19:38] redirectIfNotLoggedIn called
+[2025-10-14 20:19:38] isLoggedIn check: TRUE
+[2025-10-14 20:19:49] Auth: Conexión a BD establecida
+[2025-10-14 20:19:49] redirectIfNotLoggedIn called
+[2025-10-14 20:19:49] isLoggedIn check: TRUE
+[2025-10-14 20:19:59] Auth: Conexión a BD establecida
+[2025-10-14 20:19:59] redirectIfNotLoggedIn called
+[2025-10-14 20:19:59] isLoggedIn check: TRUE
+[2025-10-14 20:20:08] Auth: Conexión a BD establecida
+[2025-10-14 20:20:08] redirectIfNotLoggedIn called
+[2025-10-14 20:20:08] isLoggedIn check: TRUE
+[2025-10-14 20:20:18] Auth: Conexión a BD establecida
+[2025-10-14 20:20:18] redirectIfNotLoggedIn called
+[2025-10-14 20:20:18] isLoggedIn check: TRUE
+[2025-10-14 20:20:28] Auth: Conexión a BD establecida
+[2025-10-14 20:20:28] redirectIfNotLoggedIn called
+[2025-10-14 20:20:28] isLoggedIn check: TRUE
+[2025-10-14 20:20:38] Auth: Conexión a BD establecida
+[2025-10-14 20:20:38] redirectIfNotLoggedIn called
+[2025-10-14 20:20:38] isLoggedIn check: TRUE
+[2025-10-14 20:20:49] Auth: Conexión a BD establecida
+[2025-10-14 20:20:49] redirectIfNotLoggedIn called
+[2025-10-14 20:20:49] isLoggedIn check: TRUE
+[2025-10-14 20:20:59] Auth: Conexión a BD establecida
+[2025-10-14 20:20:59] redirectIfNotLoggedIn called
+[2025-10-14 20:20:59] isLoggedIn check: TRUE
+[2025-10-14 20:21:09] Auth: Conexión a BD establecida
+[2025-10-14 20:21:09] redirectIfNotLoggedIn called
+[2025-10-14 20:21:09] isLoggedIn check: TRUE
+[2025-10-14 20:21:19] Auth: Conexión a BD establecida
+[2025-10-14 20:21:19] redirectIfNotLoggedIn called
+[2025-10-14 20:21:19] isLoggedIn check: TRUE
+[2025-10-14 20:21:29] Auth: Conexión a BD establecida
+[2025-10-14 20:21:29] redirectIfNotLoggedIn called
+[2025-10-14 20:21:29] isLoggedIn check: TRUE
+[2025-10-14 20:21:39] Auth: Conexión a BD establecida
+[2025-10-14 20:21:39] redirectIfNotLoggedIn called
+[2025-10-14 20:21:39] isLoggedIn check: TRUE
+[2025-10-14 20:21:49] Auth: Conexión a BD establecida
+[2025-10-14 20:21:49] redirectIfNotLoggedIn called
+[2025-10-14 20:21:49] isLoggedIn check: TRUE
+[2025-10-14 20:22:46] Auth: Conexión a BD establecida
+[2025-10-14 20:22:46] redirectIfNotLoggedIn called
+[2025-10-14 20:22:46] isLoggedIn check: TRUE
+[2025-10-14 20:23:46] Auth: Conexión a BD establecida
+[2025-10-14 20:23:46] redirectIfNotLoggedIn called
+[2025-10-14 20:23:46] isLoggedIn check: TRUE
+[2025-10-14 20:24:46] Auth: Conexión a BD establecida
+[2025-10-14 20:24:46] redirectIfNotLoggedIn called
+[2025-10-14 20:24:46] isLoggedIn check: TRUE
+[2025-10-14 20:25:01] Auth: Conexión a BD establecida
+[2025-10-14 20:25:01] redirectIfNotLoggedIn called
+[2025-10-14 20:25:01] isLoggedIn check: TRUE
+[2025-10-14 20:25:02] Auth: Conexión a BD establecida
+[2025-10-14 20:25:02] redirectIfNotLoggedIn called
+[2025-10-14 20:25:02] isLoggedIn check: TRUE
+[2025-10-14 20:25:02] Functions class initialized
+[2025-10-14 20:25:02] Auth: Conexión a BD establecida
+[2025-10-14 20:25:02] Functions class initialized
+[2025-10-14 20:25:02] Auth: Conexión a BD establecida
+[2025-10-14 20:25:02] redirectIfNotLoggedIn called
+[2025-10-14 20:25:02] isLoggedIn check: TRUE
+[2025-10-14 20:25:13] Auth: Conexión a BD establecida
+[2025-10-14 20:25:13] redirectIfNotLoggedIn called
+[2025-10-14 20:25:13] isLoggedIn check: TRUE
+[2025-10-14 20:25:23] Auth: Conexión a BD establecida
+[2025-10-14 20:25:23] redirectIfNotLoggedIn called
+[2025-10-14 20:25:23] isLoggedIn check: TRUE
+[2025-10-14 20:25:32] Auth: Conexión a BD establecida
+[2025-10-14 20:25:32] redirectIfNotLoggedIn called
+[2025-10-14 20:25:32] isLoggedIn check: TRUE
+[2025-10-14 20:25:43] Auth: Conexión a BD establecida
+[2025-10-14 20:25:43] redirectIfNotLoggedIn called
+[2025-10-14 20:25:43] isLoggedIn check: TRUE
+[2025-10-14 20:25:53] Auth: Conexión a BD establecida
+[2025-10-14 20:25:53] redirectIfNotLoggedIn called
+[2025-10-14 20:25:53] isLoggedIn check: TRUE
+[2025-10-14 20:26:03] Auth: Conexión a BD establecida
+[2025-10-14 20:26:03] redirectIfNotLoggedIn called
+[2025-10-14 20:26:03] isLoggedIn check: TRUE
+[2025-10-14 20:26:13] Auth: Conexión a BD establecida
+[2025-10-14 20:26:13] redirectIfNotLoggedIn called
+[2025-10-14 20:26:13] isLoggedIn check: TRUE
+[2025-10-14 20:26:23] Auth: Conexión a BD establecida
+[2025-10-14 20:26:23] redirectIfNotLoggedIn called
+[2025-10-14 20:26:23] isLoggedIn check: TRUE
+[2025-10-14 20:26:33] Auth: Conexión a BD establecida
+[2025-10-14 20:26:33] redirectIfNotLoggedIn called
+[2025-10-14 20:26:33] isLoggedIn check: TRUE
+[2025-10-14 20:26:46] Auth: Conexión a BD establecida
+[2025-10-14 20:26:46] redirectIfNotLoggedIn called
+[2025-10-14 20:26:46] isLoggedIn check: TRUE
+[2025-10-14 20:27:46] Auth: Conexión a BD establecida
+[2025-10-14 20:27:46] redirectIfNotLoggedIn called
+[2025-10-14 20:27:46] isLoggedIn check: TRUE
+[2025-10-14 20:28:46] Auth: Conexión a BD establecida
+[2025-10-14 20:28:46] redirectIfNotLoggedIn called
+[2025-10-14 20:28:46] isLoggedIn check: TRUE
+[2025-10-14 20:29:46] Auth: Conexión a BD establecida
+[2025-10-14 20:29:46] redirectIfNotLoggedIn called
+[2025-10-14 20:29:46] isLoggedIn check: TRUE
+[2025-10-14 20:30:46] Auth: Conexión a BD establecida
+[2025-10-14 20:30:46] redirectIfNotLoggedIn called
+[2025-10-14 20:30:46] isLoggedIn check: TRUE
+[2025-10-14 20:31:46] Auth: Conexión a BD establecida
+[2025-10-14 20:31:46] redirectIfNotLoggedIn called
+[2025-10-14 20:31:46] isLoggedIn check: TRUE
+[2025-10-14 20:32:46] Auth: Conexión a BD establecida
+[2025-10-14 20:32:46] redirectIfNotLoggedIn called
+[2025-10-14 20:32:46] isLoggedIn check: TRUE
+[2025-10-14 20:33:46] Auth: Conexión a BD establecida
+[2025-10-14 20:33:46] redirectIfNotLoggedIn called
+[2025-10-14 20:33:46] isLoggedIn check: TRUE
+[2025-10-14 20:34:46] Auth: Conexión a BD establecida
+[2025-10-14 20:34:46] redirectIfNotLoggedIn called
+[2025-10-14 20:34:46] isLoggedIn check: TRUE
+[2025-10-14 20:35:46] Auth: Conexión a BD establecida
+[2025-10-14 20:35:46] redirectIfNotLoggedIn called
+[2025-10-14 20:35:46] isLoggedIn check: TRUE
+[2025-10-14 20:36:46] Auth: Conexión a BD establecida
+[2025-10-14 20:36:46] redirectIfNotLoggedIn called
+[2025-10-14 20:36:46] isLoggedIn check: TRUE
+[2025-10-14 20:37:46] Auth: Conexión a BD establecida
+[2025-10-14 20:37:46] redirectIfNotLoggedIn called
+[2025-10-14 20:37:46] isLoggedIn check: TRUE
+[2025-10-14 20:38:46] Auth: Conexión a BD establecida
+[2025-10-14 20:38:46] redirectIfNotLoggedIn called
+[2025-10-14 20:38:46] isLoggedIn check: TRUE
+[2025-10-14 20:39:46] Auth: Conexión a BD establecida
+[2025-10-14 20:39:46] redirectIfNotLoggedIn called
+[2025-10-14 20:39:46] isLoggedIn check: TRUE
+[2025-10-14 20:40:46] Auth: Conexión a BD establecida
+[2025-10-14 20:40:46] redirectIfNotLoggedIn called
+[2025-10-14 20:40:46] isLoggedIn check: TRUE
+[2025-10-14 20:40:52] Auth: Conexión a BD establecida
+[2025-10-14 20:40:52] redirectIfNotLoggedIn called
+[2025-10-14 20:40:52] isLoggedIn check: TRUE
+[2025-10-14 20:40:52] Auth: Conexión a BD establecida
+[2025-10-14 20:40:52] redirectIfNotLoggedIn called
+[2025-10-14 20:40:52] isLoggedIn check: TRUE
+[2025-10-14 20:40:52] Functions class initialized
+[2025-10-14 20:40:52] Auth: Conexión a BD establecida
+[2025-10-14 20:40:52] Functions class initialized
+[2025-10-14 20:40:53] Auth: Conexión a BD establecida
+[2025-10-14 20:40:53] redirectIfNotLoggedIn called
+[2025-10-14 20:40:53] isLoggedIn check: TRUE
+[2025-10-14 20:41:03] Auth: Conexión a BD establecida
+[2025-10-14 20:41:03] redirectIfNotLoggedIn called
+[2025-10-14 20:41:03] isLoggedIn check: TRUE
+[2025-10-14 20:41:13] Auth: Conexión a BD establecida
+[2025-10-14 20:41:13] redirectIfNotLoggedIn called
+[2025-10-14 20:41:13] isLoggedIn check: TRUE
+[2025-10-14 20:41:23] Auth: Conexión a BD establecida
+[2025-10-14 20:41:23] redirectIfNotLoggedIn called
+[2025-10-14 20:41:23] isLoggedIn check: TRUE
+[2025-10-14 20:41:33] Auth: Conexión a BD establecida
+[2025-10-14 20:41:33] redirectIfNotLoggedIn called
+[2025-10-14 20:41:33] isLoggedIn check: TRUE
+[2025-10-14 20:41:42] Auth: Conexión a BD establecida
+[2025-10-14 20:41:42] redirectIfNotLoggedIn called
+[2025-10-14 20:41:42] isLoggedIn check: TRUE
+[2025-10-14 20:41:42] Functions class initialized
+[2025-10-14 20:41:42] Auth: Conexión a BD establecida
+[2025-10-14 20:41:42] Functions class initialized
+[2025-10-14 20:41:42] Auth: Conexión a BD establecida
+[2025-10-14 20:41:42] redirectIfNotLoggedIn called
+[2025-10-14 20:41:42] isLoggedIn check: TRUE
+[2025-10-14 20:41:53] Auth: Conexión a BD establecida
+[2025-10-14 20:41:53] redirectIfNotLoggedIn called
+[2025-10-14 20:41:53] isLoggedIn check: TRUE
+[2025-10-14 20:42:03] Auth: Conexión a BD establecida
+[2025-10-14 20:42:03] redirectIfNotLoggedIn called
+[2025-10-14 20:42:03] isLoggedIn check: TRUE
+[2025-10-14 20:42:13] Auth: Conexión a BD establecida
+[2025-10-14 20:42:13] redirectIfNotLoggedIn called
+[2025-10-14 20:42:13] isLoggedIn check: TRUE
+[2025-10-14 20:42:23] Auth: Conexión a BD establecida
+[2025-10-14 20:42:23] redirectIfNotLoggedIn called
+[2025-10-14 20:42:23] isLoggedIn check: TRUE
+[2025-10-14 20:42:33] Auth: Conexión a BD establecida
+[2025-10-14 20:42:33] redirectIfNotLoggedIn called
+[2025-10-14 20:42:33] isLoggedIn check: TRUE
+[2025-10-14 20:42:43] Auth: Conexión a BD establecida
+[2025-10-14 20:42:43] redirectIfNotLoggedIn called
+[2025-10-14 20:42:43] isLoggedIn check: TRUE
+[2025-10-14 20:42:53] Auth: Conexión a BD establecida
+[2025-10-14 20:42:53] redirectIfNotLoggedIn called
+[2025-10-14 20:42:53] isLoggedIn check: TRUE
+[2025-10-14 20:43:03] Auth: Conexión a BD establecida
+[2025-10-14 20:43:03] redirectIfNotLoggedIn called
+[2025-10-14 20:43:03] isLoggedIn check: TRUE
+[2025-10-14 20:43:13] Auth: Conexión a BD establecida
+[2025-10-14 20:43:13] redirectIfNotLoggedIn called
+[2025-10-14 20:43:13] isLoggedIn check: TRUE
+[2025-10-14 20:43:23] Auth: Conexión a BD establecida
+[2025-10-14 20:43:23] redirectIfNotLoggedIn called
+[2025-10-14 20:43:23] isLoggedIn check: TRUE
+[2025-10-14 20:43:33] Auth: Conexión a BD establecida
+[2025-10-14 20:43:33] redirectIfNotLoggedIn called
+[2025-10-14 20:43:33] isLoggedIn check: TRUE
+[2025-10-14 20:43:43] Auth: Conexión a BD establecida
+[2025-10-14 20:43:43] redirectIfNotLoggedIn called
+[2025-10-14 20:43:43] isLoggedIn check: TRUE
+[2025-10-14 20:43:53] Auth: Conexión a BD establecida
+[2025-10-14 20:43:53] redirectIfNotLoggedIn called
+[2025-10-14 20:43:53] isLoggedIn check: TRUE
+[2025-10-14 20:44:03] Auth: Conexión a BD establecida
+[2025-10-14 20:44:03] redirectIfNotLoggedIn called
+[2025-10-14 20:44:03] isLoggedIn check: TRUE
+[2025-10-14 20:44:13] Auth: Conexión a BD establecida
+[2025-10-14 20:44:13] redirectIfNotLoggedIn called
+[2025-10-14 20:44:13] isLoggedIn check: TRUE
+[2025-10-14 20:44:23] Auth: Conexión a BD establecida
+[2025-10-14 20:44:23] redirectIfNotLoggedIn called
+[2025-10-14 20:44:23] isLoggedIn check: TRUE
+[2025-10-14 20:44:33] Auth: Conexión a BD establecida
+[2025-10-14 20:44:33] redirectIfNotLoggedIn called
+[2025-10-14 20:44:33] isLoggedIn check: TRUE
+[2025-10-14 20:44:43] Auth: Conexión a BD establecida
+[2025-10-14 20:44:43] redirectIfNotLoggedIn called
+[2025-10-14 20:44:43] isLoggedIn check: TRUE
+[2025-10-14 20:44:53] Auth: Conexión a BD establecida
+[2025-10-14 20:44:53] redirectIfNotLoggedIn called
+[2025-10-14 20:44:53] isLoggedIn check: TRUE
+[2025-10-14 20:45:03] Auth: Conexión a BD establecida
+[2025-10-14 20:45:03] redirectIfNotLoggedIn called
+[2025-10-14 20:45:03] isLoggedIn check: TRUE
+[2025-10-14 20:45:13] Auth: Conexión a BD establecida
+[2025-10-14 20:45:13] redirectIfNotLoggedIn called
+[2025-10-14 20:45:13] isLoggedIn check: TRUE
+[2025-10-14 20:45:23] Auth: Conexión a BD establecida
+[2025-10-14 20:45:23] redirectIfNotLoggedIn called
+[2025-10-14 20:45:23] isLoggedIn check: TRUE
+[2025-10-14 20:45:46] Auth: Conexión a BD establecida
+[2025-10-14 20:45:46] redirectIfNotLoggedIn called
+[2025-10-14 20:45:46] isLoggedIn check: TRUE
+[2025-10-14 20:46:22] Auth: Conexión a BD establecida
+[2025-10-14 20:46:22] redirectIfNotLoggedIn called
+[2025-10-14 20:46:22] isLoggedIn check: TRUE
+[2025-10-14 20:46:22] Auth: Conexión a BD establecida
+[2025-10-14 20:46:22] redirectIfNotLoggedIn called
+[2025-10-14 20:46:22] isLoggedIn check: TRUE
+[2025-10-14 20:46:23] Auth: Conexión a BD establecida
+[2025-10-14 20:46:23] redirectIfNotLoggedIn called
+[2025-10-14 20:46:23] isLoggedIn check: TRUE
+[2025-10-14 20:46:23] Functions class initialized
+[2025-10-14 20:46:23] Auth: Conexión a BD establecida
+[2025-10-14 20:46:23] Functions class initialized
+[2025-10-14 20:46:23] Auth: Conexión a BD establecida
+[2025-10-14 20:46:23] redirectIfNotLoggedIn called
+[2025-10-14 20:46:23] isLoggedIn check: TRUE
+[2025-10-14 20:46:33] Auth: Conexión a BD establecida
+[2025-10-14 20:46:33] redirectIfNotLoggedIn called
+[2025-10-14 20:46:33] isLoggedIn check: TRUE
+[2025-10-14 20:46:43] Auth: Conexión a BD establecida
+[2025-10-14 20:46:43] redirectIfNotLoggedIn called
+[2025-10-14 20:46:43] isLoggedIn check: TRUE
+[2025-10-14 20:46:53] Auth: Conexión a BD establecida
+[2025-10-14 20:46:53] redirectIfNotLoggedIn called
+[2025-10-14 20:46:53] isLoggedIn check: TRUE
+[2025-10-14 20:47:03] Auth: Conexión a BD establecida
+[2025-10-14 20:47:03] redirectIfNotLoggedIn called
+[2025-10-14 20:47:03] isLoggedIn check: TRUE
+[2025-10-14 20:47:13] Auth: Conexión a BD establecida
+[2025-10-14 20:47:13] redirectIfNotLoggedIn called
+[2025-10-14 20:47:13] isLoggedIn check: TRUE
+[2025-10-14 20:47:23] Auth: Conexión a BD establecida
+[2025-10-14 20:47:23] redirectIfNotLoggedIn called
+[2025-10-14 20:47:23] isLoggedIn check: TRUE
+[2025-10-14 20:47:34] Auth: Conexión a BD establecida
+[2025-10-14 20:47:34] redirectIfNotLoggedIn called
+[2025-10-14 20:47:34] isLoggedIn check: TRUE
+[2025-10-14 20:47:44] Auth: Conexión a BD establecida
+[2025-10-14 20:47:44] redirectIfNotLoggedIn called
+[2025-10-14 20:47:44] isLoggedIn check: TRUE
+[2025-10-14 20:47:54] Auth: Conexión a BD establecida
+[2025-10-14 20:47:54] redirectIfNotLoggedIn called
+[2025-10-14 20:47:54] isLoggedIn check: TRUE
+[2025-10-14 20:48:04] Auth: Conexión a BD establecida
+[2025-10-14 20:48:04] redirectIfNotLoggedIn called
+[2025-10-14 20:48:04] isLoggedIn check: TRUE
+[2025-10-14 20:48:14] Auth: Conexión a BD establecida
+[2025-10-14 20:48:14] redirectIfNotLoggedIn called
+[2025-10-14 20:48:14] isLoggedIn check: TRUE
+[2025-10-14 20:48:24] Auth: Conexión a BD establecida
+[2025-10-14 20:48:24] redirectIfNotLoggedIn called
+[2025-10-14 20:48:24] isLoggedIn check: TRUE
+[2025-10-14 20:48:46] Auth: Conexión a BD establecida
+[2025-10-14 20:48:46] redirectIfNotLoggedIn called
+[2025-10-14 20:48:46] isLoggedIn check: TRUE
+[2025-10-14 20:48:55] Auth: Conexión a BD establecida
+[2025-10-14 20:48:55] redirectIfNotLoggedIn called
+[2025-10-14 20:48:55] isLoggedIn check: TRUE
+[2025-10-14 20:49:04] Auth: Conexión a BD establecida
+[2025-10-14 20:49:04] redirectIfNotLoggedIn called
+[2025-10-14 20:49:04] isLoggedIn check: TRUE
+[2025-10-14 20:49:14] Auth: Conexión a BD establecida
+[2025-10-14 20:49:14] redirectIfNotLoggedIn called
+[2025-10-14 20:49:14] isLoggedIn check: TRUE
+[2025-10-14 20:49:24] Auth: Conexión a BD establecida
+[2025-10-14 20:49:24] redirectIfNotLoggedIn called
+[2025-10-14 20:49:24] isLoggedIn check: TRUE
+[2025-10-14 20:49:34] Auth: Conexión a BD establecida
+[2025-10-14 20:49:34] redirectIfNotLoggedIn called
+[2025-10-14 20:49:34] isLoggedIn check: TRUE
+[2025-10-14 20:49:44] Auth: Conexión a BD establecida
+[2025-10-14 20:49:44] redirectIfNotLoggedIn called
+[2025-10-14 20:49:44] isLoggedIn check: TRUE
+[2025-10-14 20:49:53] Auth: Conexión a BD establecida
+[2025-10-14 20:49:53] redirectIfNotLoggedIn called
+[2025-10-14 20:49:53] isLoggedIn check: TRUE
+[2025-10-14 20:49:53] Auth: Conexión a BD establecida
+[2025-10-14 20:49:53] redirectIfNotLoggedIn called
+[2025-10-14 20:49:53] isLoggedIn check: TRUE
+[2025-10-14 20:49:53] Functions class initialized
+[2025-10-14 20:49:53] Auth: Conexión a BD establecida
+[2025-10-14 20:49:53] Functions class initialized
+[2025-10-14 20:49:54] Auth: Conexión a BD establecida
+[2025-10-14 20:49:54] redirectIfNotLoggedIn called
+[2025-10-14 20:49:54] isLoggedIn check: TRUE
+[2025-10-14 20:50:04] Auth: Conexión a BD establecida
+[2025-10-14 20:50:04] redirectIfNotLoggedIn called
+[2025-10-14 20:50:04] isLoggedIn check: TRUE
+[2025-10-14 20:50:14] Auth: Conexión a BD establecida
+[2025-10-14 20:50:14] redirectIfNotLoggedIn called
+[2025-10-14 20:50:14] isLoggedIn check: TRUE
+[2025-10-14 20:50:24] Auth: Conexión a BD establecida
+[2025-10-14 20:50:24] redirectIfNotLoggedIn called
+[2025-10-14 20:50:24] isLoggedIn check: TRUE
+[2025-10-14 20:50:34] Auth: Conexión a BD establecida
+[2025-10-14 20:50:34] redirectIfNotLoggedIn called
+[2025-10-14 20:50:34] isLoggedIn check: TRUE
+[2025-10-14 20:50:44] Auth: Conexión a BD establecida
+[2025-10-14 20:50:44] redirectIfNotLoggedIn called
+[2025-10-14 20:50:44] isLoggedIn check: TRUE
+[2025-10-14 20:50:54] Auth: Conexión a BD establecida
+[2025-10-14 20:50:54] redirectIfNotLoggedIn called
+[2025-10-14 20:50:54] isLoggedIn check: TRUE
+[2025-10-14 20:51:04] Auth: Conexión a BD establecida
+[2025-10-14 20:51:04] redirectIfNotLoggedIn called
+[2025-10-14 20:51:04] isLoggedIn check: TRUE
+[2025-10-14 20:51:14] Auth: Conexión a BD establecida
+[2025-10-14 20:51:14] redirectIfNotLoggedIn called
+[2025-10-14 20:51:14] isLoggedIn check: TRUE
+[2025-10-14 20:51:24] Auth: Conexión a BD establecida
+[2025-10-14 20:51:24] redirectIfNotLoggedIn called
+[2025-10-14 20:51:24] isLoggedIn check: TRUE
+[2025-10-14 20:51:34] Auth: Conexión a BD establecida
+[2025-10-14 20:51:34] redirectIfNotLoggedIn called
+[2025-10-14 20:51:34] isLoggedIn check: TRUE
+[2025-10-14 20:51:44] Auth: Conexión a BD establecida
+[2025-10-14 20:51:44] redirectIfNotLoggedIn called
+[2025-10-14 20:51:44] isLoggedIn check: TRUE
+[2025-10-14 20:51:54] Auth: Conexión a BD establecida
+[2025-10-14 20:51:54] redirectIfNotLoggedIn called
+[2025-10-14 20:51:54] isLoggedIn check: TRUE
+[2025-10-14 20:52:46] Auth: Conexión a BD establecida
+[2025-10-14 20:52:46] redirectIfNotLoggedIn called
+[2025-10-14 20:52:46] isLoggedIn check: TRUE
+[2025-10-14 20:53:46] Auth: Conexión a BD establecida
+[2025-10-14 20:53:46] redirectIfNotLoggedIn called
+[2025-10-14 20:53:46] isLoggedIn check: TRUE
+[2025-10-14 20:54:46] Auth: Conexión a BD establecida
+[2025-10-14 20:54:46] redirectIfNotLoggedIn called
+[2025-10-14 20:54:46] isLoggedIn check: TRUE
+[2025-10-14 20:55:31] Auth: Conexión a BD establecida
+[2025-10-14 20:55:31] redirectIfNotLoggedIn called
+[2025-10-14 20:55:31] isLoggedIn check: TRUE
+[2025-10-14 20:55:34] Auth: Conexión a BD establecida
+[2025-10-14 20:55:34] redirectIfNotLoggedIn called
+[2025-10-14 20:55:34] isLoggedIn check: TRUE
+[2025-10-14 20:55:43] Auth: Conexión a BD establecida
+[2025-10-14 20:55:43] redirectIfNotLoggedIn called
+[2025-10-14 20:55:43] isLoggedIn check: TRUE
+[2025-10-14 20:55:43] Functions class initialized
+[2025-10-14 20:55:43] Auth: Conexión a BD establecida
+[2025-10-14 20:55:43] Functions class initialized
+[2025-10-14 20:55:44] Auth: Conexión a BD establecida
+[2025-10-14 20:55:44] redirectIfNotLoggedIn called
+[2025-10-14 20:55:44] isLoggedIn check: TRUE
+[2025-10-14 20:55:54] Auth: Conexión a BD establecida
+[2025-10-14 20:55:54] redirectIfNotLoggedIn called
+[2025-10-14 20:55:54] isLoggedIn check: TRUE
+[2025-10-14 20:56:04] Auth: Conexión a BD establecida
+[2025-10-14 20:56:04] redirectIfNotLoggedIn called
+[2025-10-14 20:56:04] isLoggedIn check: TRUE
+[2025-10-14 20:56:14] Auth: Conexión a BD establecida
+[2025-10-14 20:56:14] redirectIfNotLoggedIn called
+[2025-10-14 20:56:14] isLoggedIn check: TRUE
+[2025-10-14 20:56:24] Auth: Conexión a BD establecida
+[2025-10-14 20:56:24] redirectIfNotLoggedIn called
+[2025-10-14 20:56:24] isLoggedIn check: TRUE
+[2025-10-14 20:56:34] Auth: Conexión a BD establecida
+[2025-10-14 20:56:34] redirectIfNotLoggedIn called
+[2025-10-14 20:56:34] isLoggedIn check: TRUE
+[2025-10-14 20:56:44] Auth: Conexión a BD establecida
+[2025-10-14 20:56:44] redirectIfNotLoggedIn called
+[2025-10-14 20:56:44] isLoggedIn check: TRUE
+[2025-10-14 20:56:54] Auth: Conexión a BD establecida
+[2025-10-14 20:56:54] redirectIfNotLoggedIn called
+[2025-10-14 20:56:54] isLoggedIn check: TRUE
+[2025-10-14 20:57:17] Auth: Conexión a BD establecida
+[2025-10-14 20:57:17] redirectIfNotLoggedIn called
+[2025-10-14 20:57:17] isLoggedIn check: TRUE
+[2025-10-14 20:57:24] Auth: Conexión a BD establecida
+[2025-10-14 20:57:24] redirectIfNotLoggedIn called
+[2025-10-14 20:57:24] isLoggedIn check: TRUE
+[2025-10-14 20:57:34] Auth: Conexión a BD establecida
+[2025-10-14 20:57:34] redirectIfNotLoggedIn called
+[2025-10-14 20:57:34] isLoggedIn check: TRUE
+[2025-10-14 20:57:44] Auth: Conexión a BD establecida
+[2025-10-14 20:57:44] redirectIfNotLoggedIn called
+[2025-10-14 20:57:44] isLoggedIn check: TRUE
+[2025-10-14 20:57:54] Auth: Conexión a BD establecida
+[2025-10-14 20:57:54] redirectIfNotLoggedIn called
+[2025-10-14 20:57:54] isLoggedIn check: TRUE
+[2025-10-14 20:58:04] Auth: Conexión a BD establecida
+[2025-10-14 20:58:04] redirectIfNotLoggedIn called
+[2025-10-14 20:58:04] isLoggedIn check: TRUE
+[2025-10-14 20:58:14] Auth: Conexión a BD establecida
+[2025-10-14 20:58:14] redirectIfNotLoggedIn called
+[2025-10-14 20:58:14] isLoggedIn check: TRUE
+[2025-10-14 20:58:24] Auth: Conexión a BD establecida
+[2025-10-14 20:58:24] redirectIfNotLoggedIn called
+[2025-10-14 20:58:24] isLoggedIn check: TRUE
+[2025-10-14 20:58:34] Auth: Conexión a BD establecida
+[2025-10-14 20:58:34] redirectIfNotLoggedIn called
+[2025-10-14 20:58:34] isLoggedIn check: TRUE
+[2025-10-14 20:58:44] Auth: Conexión a BD establecida
+[2025-10-14 20:58:44] redirectIfNotLoggedIn called
+[2025-10-14 20:58:44] isLoggedIn check: TRUE
+[2025-10-14 20:58:44] Auth: Conexión a BD establecida
+[2025-10-14 20:58:44] redirectIfNotLoggedIn called
+[2025-10-14 20:58:44] isLoggedIn check: TRUE
+[2025-10-14 20:58:44] Auth: Conexión a BD establecida
+[2025-10-14 20:58:44] redirectIfNotLoggedIn called
+[2025-10-14 20:58:44] isLoggedIn check: TRUE
+[2025-10-14 20:58:45] Auth: Conexión a BD establecida
+[2025-10-14 20:58:45] redirectIfNotLoggedIn called
+[2025-10-14 20:58:45] isLoggedIn check: TRUE
+[2025-10-14 20:58:47] Auth: Conexión a BD establecida
+[2025-10-14 20:58:47] redirectIfNotLoggedIn called
+[2025-10-14 20:58:47] isLoggedIn check: TRUE
+[2025-10-14 20:58:54] Auth: Conexión a BD establecida
+[2025-10-14 20:58:54] redirectIfNotLoggedIn called
+[2025-10-14 20:58:54] isLoggedIn check: TRUE
+[2025-10-14 20:59:04] Auth: Conexión a BD establecida
+[2025-10-14 20:59:04] redirectIfNotLoggedIn called
+[2025-10-14 20:59:04] isLoggedIn check: TRUE
+[2025-10-14 20:59:14] Auth: Conexión a BD establecida
+[2025-10-14 20:59:14] redirectIfNotLoggedIn called
+[2025-10-14 20:59:14] isLoggedIn check: TRUE
+[2025-10-14 20:59:24] Auth: Conexión a BD establecida
+[2025-10-14 20:59:24] redirectIfNotLoggedIn called
+[2025-10-14 20:59:24] isLoggedIn check: TRUE
+[2025-10-14 20:59:34] Auth: Conexión a BD establecida
+[2025-10-14 20:59:34] redirectIfNotLoggedIn called
+[2025-10-14 20:59:34] isLoggedIn check: TRUE
+[2025-10-14 20:59:44] Auth: Conexión a BD establecida
+[2025-10-14 20:59:44] redirectIfNotLoggedIn called
+[2025-10-14 20:59:44] isLoggedIn check: TRUE
+[2025-10-14 20:59:54] Auth: Conexión a BD establecida
+[2025-10-14 20:59:54] redirectIfNotLoggedIn called
+[2025-10-14 20:59:54] isLoggedIn check: TRUE
+[2025-10-14 21:00:04] Auth: Conexión a BD establecida
+[2025-10-14 21:00:04] redirectIfNotLoggedIn called
+[2025-10-14 21:00:04] isLoggedIn check: TRUE
+[2025-10-14 21:00:14] Auth: Conexión a BD establecida
+[2025-10-14 21:00:14] redirectIfNotLoggedIn called
+[2025-10-14 21:00:14] isLoggedIn check: TRUE
+[2025-10-14 21:00:24] Auth: Conexión a BD establecida
+[2025-10-14 21:00:24] redirectIfNotLoggedIn called
+[2025-10-14 21:00:24] isLoggedIn check: TRUE
+[2025-10-14 21:00:46] Auth: Conexión a BD establecida
+[2025-10-14 21:00:46] redirectIfNotLoggedIn called
+[2025-10-14 21:00:46] isLoggedIn check: TRUE
+[2025-10-14 21:01:23] Auth: Conexión a BD establecida
+[2025-10-14 21:01:23] redirectIfNotLoggedIn called
+[2025-10-14 21:01:23] isLoggedIn check: TRUE
+[2025-10-14 21:01:24] Auth: Conexión a BD establecida
+[2025-10-14 21:01:24] redirectIfNotLoggedIn called
+[2025-10-14 21:01:24] isLoggedIn check: TRUE
+[2025-10-14 21:01:34] Auth: Conexión a BD establecida
+[2025-10-14 21:01:34] redirectIfNotLoggedIn called
+[2025-10-14 21:01:34] isLoggedIn check: TRUE
+[2025-10-14 21:01:44] Auth: Conexión a BD establecida
+[2025-10-14 21:01:44] redirectIfNotLoggedIn called
+[2025-10-14 21:01:44] isLoggedIn check: TRUE
+[2025-10-14 21:01:54] Auth: Conexión a BD establecida
+[2025-10-14 21:01:54] redirectIfNotLoggedIn called
+[2025-10-14 21:01:54] isLoggedIn check: TRUE
+[2025-10-14 21:02:04] Auth: Conexión a BD establecida
+[2025-10-14 21:02:04] redirectIfNotLoggedIn called
+[2025-10-14 21:02:04] isLoggedIn check: TRUE
+[2025-10-14 21:02:14] Auth: Conexión a BD establecida
+[2025-10-14 21:02:14] redirectIfNotLoggedIn called
+[2025-10-14 21:02:14] isLoggedIn check: TRUE
+[2025-10-14 21:02:24] Auth: Conexión a BD establecida
+[2025-10-14 21:02:24] redirectIfNotLoggedIn called
+[2025-10-14 21:02:24] isLoggedIn check: TRUE
+[2025-10-14 21:02:46] Auth: Conexión a BD establecida
+[2025-10-14 21:02:46] redirectIfNotLoggedIn called
+[2025-10-14 21:02:46] isLoggedIn check: TRUE
+[2025-10-14 21:03:46] Auth: Conexión a BD establecida
+[2025-10-14 21:03:46] redirectIfNotLoggedIn called
+[2025-10-14 21:03:46] isLoggedIn check: TRUE
+[2025-10-14 21:04:46] Auth: Conexión a BD establecida
+[2025-10-14 21:04:46] redirectIfNotLoggedIn called
+[2025-10-14 21:04:46] isLoggedIn check: TRUE
+[2025-10-14 21:05:46] Auth: Conexión a BD establecida
+[2025-10-14 21:05:46] redirectIfNotLoggedIn called
+[2025-10-14 21:05:46] isLoggedIn check: TRUE
+[2025-10-14 21:06:46] Auth: Conexión a BD establecida
+[2025-10-14 21:06:46] redirectIfNotLoggedIn called
+[2025-10-14 21:06:46] isLoggedIn check: TRUE
+[2025-10-14 21:07:29] Auth: Conexión a BD establecida
+[2025-10-14 21:07:29] redirectIfNotLoggedIn called
+[2025-10-14 21:07:29] isLoggedIn check: TRUE
+[2025-10-14 21:07:34] Auth: Conexión a BD establecida
+[2025-10-14 21:07:34] redirectIfNotLoggedIn called
+[2025-10-14 21:07:34] isLoggedIn check: TRUE
+[2025-10-14 21:08:04] Auth: Conexión a BD establecida
+[2025-10-14 21:08:04] redirectIfNotLoggedIn called
+[2025-10-14 21:08:04] isLoggedIn check: TRUE
+[2025-10-14 21:08:14] Auth: Conexión a BD establecida
+[2025-10-14 21:08:14] redirectIfNotLoggedIn called
+[2025-10-14 21:08:14] isLoggedIn check: TRUE
+[2025-10-14 21:08:24] Auth: Conexión a BD establecida
+[2025-10-14 21:08:24] redirectIfNotLoggedIn called
+[2025-10-14 21:08:24] isLoggedIn check: TRUE
+[2025-10-14 21:08:46] Auth: Conexión a BD establecida
+[2025-10-14 21:08:46] redirectIfNotLoggedIn called
+[2025-10-14 21:08:46] isLoggedIn check: TRUE
+[2025-10-14 21:09:46] Auth: Conexión a BD establecida
+[2025-10-14 21:09:46] redirectIfNotLoggedIn called
+[2025-10-14 21:09:46] isLoggedIn check: TRUE
+[2025-10-14 21:10:46] Auth: Conexión a BD establecida
+[2025-10-14 21:10:46] redirectIfNotLoggedIn called
+[2025-10-14 21:10:46] isLoggedIn check: TRUE
+[2025-10-14 21:11:46] Auth: Conexión a BD establecida
+[2025-10-14 21:11:46] redirectIfNotLoggedIn called
+[2025-10-14 21:11:46] isLoggedIn check: TRUE
+[2025-10-14 21:12:40] Auth: Conexión a BD establecida
+[2025-10-14 21:12:40] redirectIfNotLoggedIn called
+[2025-10-14 21:12:40] isLoggedIn check: TRUE
+[2025-10-14 21:12:44] Auth: Conexión a BD establecida
+[2025-10-14 21:12:44] redirectIfNotLoggedIn called
+[2025-10-14 21:12:44] isLoggedIn check: TRUE
+[2025-10-14 21:12:54] Auth: Conexión a BD establecida
+[2025-10-14 21:12:54] redirectIfNotLoggedIn called
+[2025-10-14 21:12:54] isLoggedIn check: TRUE
+[2025-10-14 21:13:04] Auth: Conexión a BD establecida
+[2025-10-14 21:13:04] redirectIfNotLoggedIn called
+[2025-10-14 21:13:04] isLoggedIn check: TRUE
+[2025-10-14 21:13:14] Auth: Conexión a BD establecida
+[2025-10-14 21:13:14] redirectIfNotLoggedIn called
+[2025-10-14 21:13:14] isLoggedIn check: TRUE
+[2025-10-14 21:13:24] Auth: Conexión a BD establecida
+[2025-10-14 21:13:24] redirectIfNotLoggedIn called
+[2025-10-14 21:13:24] isLoggedIn check: TRUE
+[2025-10-14 21:13:34] Auth: Conexión a BD establecida
+[2025-10-14 21:13:34] redirectIfNotLoggedIn called
+[2025-10-14 21:13:34] isLoggedIn check: TRUE
+[2025-10-14 21:13:44] Auth: Conexión a BD establecida
+[2025-10-14 21:13:44] redirectIfNotLoggedIn called
+[2025-10-14 21:13:44] isLoggedIn check: TRUE
+[2025-10-14 21:14:02] Auth: Conexión a BD establecida
+[2025-10-14 21:14:02] redirectIfNotLoggedIn called
+[2025-10-14 21:14:02] isLoggedIn check: TRUE
+[2025-10-14 21:14:08] Auth: Conexión a BD establecida
+[2025-10-14 21:14:08] redirectIfNotLoggedIn called
+[2025-10-14 21:14:08] isLoggedIn check: TRUE
+[2025-10-14 21:14:08] Functions class initialized
+[2025-10-14 21:14:08] Auth: Conexión a BD establecida
+[2025-10-14 21:14:08] Functions class initialized
+[2025-10-14 21:14:08] Auth: Conexión a BD establecida
+[2025-10-14 21:14:08] redirectIfNotLoggedIn called
+[2025-10-14 21:14:08] isLoggedIn check: TRUE
+[2025-10-14 21:14:11] Auth: Conexión a BD establecida
+[2025-10-14 21:14:11] redirectIfNotLoggedIn called
+[2025-10-14 21:14:11] isLoggedIn check: TRUE
+[2025-10-14 21:14:11] Functions class initialized
+[2025-10-14 21:14:11] Auth: Conexión a BD establecida
+[2025-10-14 21:14:11] Functions class initialized
+[2025-10-14 21:14:11] Auth: Conexión a BD establecida
+[2025-10-14 21:14:11] redirectIfNotLoggedIn called
+[2025-10-14 21:14:11] isLoggedIn check: TRUE
+[2025-10-14 21:14:26] Auth: Conexión a BD establecida
+[2025-10-14 21:14:26] redirectIfNotLoggedIn called
+[2025-10-14 21:14:26] isLoggedIn check: TRUE
+[2025-10-14 21:14:26] Functions class initialized
+[2025-10-14 21:14:26] Auth: Conexión a BD establecida
+[2025-10-14 21:14:26] Functions class initialized
+[2025-10-14 21:14:26] Auth: Conexión a BD establecida
+[2025-10-14 21:14:26] redirectIfNotLoggedIn called
+[2025-10-14 21:14:26] isLoggedIn check: TRUE
+[2025-10-14 21:14:37] Auth: Conexión a BD establecida
+[2025-10-14 21:14:37] redirectIfNotLoggedIn called
+[2025-10-14 21:14:37] isLoggedIn check: TRUE
+[2025-10-14 21:14:47] Auth: Conexión a BD establecida
+[2025-10-14 21:14:47] redirectIfNotLoggedIn called
+[2025-10-14 21:14:47] isLoggedIn check: TRUE
+[2025-10-14 21:14:57] Auth: Conexión a BD establecida
+[2025-10-14 21:14:57] redirectIfNotLoggedIn called
+[2025-10-14 21:14:57] isLoggedIn check: TRUE
+[2025-10-14 21:15:06] Auth: Conexión a BD establecida
+[2025-10-14 21:15:06] redirectIfNotLoggedIn called
+[2025-10-14 21:15:06] isLoggedIn check: TRUE
+[2025-10-14 21:15:17] Auth: Conexión a BD establecida
+[2025-10-14 21:15:17] redirectIfNotLoggedIn called
+[2025-10-14 21:15:17] isLoggedIn check: TRUE
+[2025-10-14 21:15:27] Auth: Conexión a BD establecida
+[2025-10-14 21:15:27] redirectIfNotLoggedIn called
+[2025-10-14 21:15:27] isLoggedIn check: TRUE
+[2025-10-14 21:15:37] Auth: Conexión a BD establecida
+[2025-10-14 21:15:37] redirectIfNotLoggedIn called
+[2025-10-14 21:15:37] isLoggedIn check: TRUE
+[2025-10-14 21:15:47] Auth: Conexión a BD establecida
+[2025-10-14 21:15:47] redirectIfNotLoggedIn called
+[2025-10-14 21:15:47] isLoggedIn check: TRUE
+[2025-10-14 21:15:57] Auth: Conexión a BD establecida
+[2025-10-14 21:15:57] redirectIfNotLoggedIn called
+[2025-10-14 21:15:57] isLoggedIn check: TRUE
+[2025-10-14 21:16:07] Auth: Conexión a BD establecida
+[2025-10-14 21:16:07] redirectIfNotLoggedIn called
+[2025-10-14 21:16:07] isLoggedIn check: TRUE
+[2025-10-14 21:16:17] Auth: Conexión a BD establecida
+[2025-10-14 21:16:17] redirectIfNotLoggedIn called
+[2025-10-14 21:16:17] isLoggedIn check: TRUE
+[2025-10-14 21:16:27] Auth: Conexión a BD establecida
+[2025-10-14 21:16:27] redirectIfNotLoggedIn called
+[2025-10-14 21:16:27] isLoggedIn check: TRUE
+[2025-10-14 21:16:46] Auth: Conexión a BD establecida
+[2025-10-14 21:16:46] redirectIfNotLoggedIn called
+[2025-10-14 21:16:46] isLoggedIn check: TRUE
+[2025-10-14 21:17:46] Auth: Conexión a BD establecida
+[2025-10-14 21:17:46] redirectIfNotLoggedIn called
+[2025-10-14 21:17:46] isLoggedIn check: TRUE
+[2025-10-14 21:18:46] Auth: Conexión a BD establecida
+[2025-10-14 21:18:46] redirectIfNotLoggedIn called
+[2025-10-14 21:18:46] isLoggedIn check: TRUE
+[2025-10-14 21:19:46] Auth: Conexión a BD establecida
+[2025-10-14 21:19:46] redirectIfNotLoggedIn called
+[2025-10-14 21:19:46] isLoggedIn check: TRUE
+[2025-10-14 21:20:46] Auth: Conexión a BD establecida
+[2025-10-14 21:20:46] redirectIfNotLoggedIn called
+[2025-10-14 21:20:46] isLoggedIn check: TRUE
+[2025-10-14 21:21:46] Auth: Conexión a BD establecida
+[2025-10-14 21:21:46] redirectIfNotLoggedIn called
+[2025-10-14 21:21:46] isLoggedIn check: TRUE
+[2025-10-14 21:21:56] Auth: Conexión a BD establecida
+[2025-10-14 21:21:56] redirectIfNotLoggedIn called
+[2025-10-14 21:21:56] isLoggedIn check: TRUE
+[2025-10-14 21:22:07] Auth: Conexión a BD establecida
+[2025-10-14 21:22:07] redirectIfNotLoggedIn called
+[2025-10-14 21:22:07] isLoggedIn check: TRUE
+[2025-10-14 21:22:17] Auth: Conexión a BD establecida
+[2025-10-14 21:22:17] redirectIfNotLoggedIn called
+[2025-10-14 21:22:17] isLoggedIn check: TRUE
+[2025-10-14 21:22:27] Auth: Conexión a BD establecida
+[2025-10-14 21:22:27] redirectIfNotLoggedIn called
+[2025-10-14 21:22:27] isLoggedIn check: TRUE
+[2025-10-14 21:22:37] Auth: Conexión a BD establecida
+[2025-10-14 21:22:37] redirectIfNotLoggedIn called
+[2025-10-14 21:22:37] isLoggedIn check: TRUE
+[2025-10-14 21:22:47] Auth: Conexión a BD establecida
+[2025-10-14 21:22:47] redirectIfNotLoggedIn called
+[2025-10-14 21:22:47] isLoggedIn check: TRUE
+[2025-10-14 21:22:57] Auth: Conexión a BD establecida
+[2025-10-14 21:22:57] redirectIfNotLoggedIn called
+[2025-10-14 21:22:57] isLoggedIn check: TRUE
+[2025-10-14 21:23:07] Auth: Conexión a BD establecida
+[2025-10-14 21:23:07] redirectIfNotLoggedIn called
+[2025-10-14 21:23:07] isLoggedIn check: TRUE
+[2025-10-14 21:23:46] Auth: Conexión a BD establecida
+[2025-10-14 21:23:46] redirectIfNotLoggedIn called
+[2025-10-14 21:23:46] isLoggedIn check: TRUE
+[2025-10-14 21:24:06] Auth: Conexión a BD establecida
+[2025-10-14 21:24:06] redirectIfNotLoggedIn called
+[2025-10-14 21:24:06] isLoggedIn check: TRUE
+[2025-10-14 21:24:17] Auth: Conexión a BD establecida
+[2025-10-14 21:24:17] redirectIfNotLoggedIn called
+[2025-10-14 21:24:17] isLoggedIn check: TRUE
+[2025-10-14 21:24:27] Auth: Conexión a BD establecida
+[2025-10-14 21:24:27] redirectIfNotLoggedIn called
+[2025-10-14 21:24:27] isLoggedIn check: TRUE
+[2025-10-14 21:24:37] Auth: Conexión a BD establecida
+[2025-10-14 21:24:37] redirectIfNotLoggedIn called
+[2025-10-14 21:24:37] isLoggedIn check: TRUE
+[2025-10-14 21:24:47] Auth: Conexión a BD establecida
+[2025-10-14 21:24:47] redirectIfNotLoggedIn called
+[2025-10-14 21:24:47] isLoggedIn check: TRUE
+[2025-10-14 21:24:57] Auth: Conexión a BD establecida
+[2025-10-14 21:24:57] redirectIfNotLoggedIn called
+[2025-10-14 21:24:57] isLoggedIn check: TRUE
+[2025-10-14 21:25:07] Auth: Conexión a BD establecida
+[2025-10-14 21:25:07] redirectIfNotLoggedIn called
+[2025-10-14 21:25:07] isLoggedIn check: TRUE
+[2025-10-14 21:25:46] Auth: Conexión a BD establecida
+[2025-10-14 21:25:46] redirectIfNotLoggedIn called
+[2025-10-14 21:25:46] isLoggedIn check: TRUE
+[2025-10-14 21:26:32] Auth: Conexión a BD establecida
+[2025-10-14 21:26:32] redirectIfNotLoggedIn called
+[2025-10-14 21:26:32] isLoggedIn check: TRUE
+[2025-10-14 21:26:36] Auth: Conexión a BD establecida
+[2025-10-14 21:26:36] redirectIfNotLoggedIn called
+[2025-10-14 21:26:36] isLoggedIn check: TRUE
+[2025-10-14 21:26:47] Auth: Conexión a BD establecida
+[2025-10-14 21:26:47] redirectIfNotLoggedIn called
+[2025-10-14 21:26:47] isLoggedIn check: TRUE
+[2025-10-14 21:26:57] Auth: Conexión a BD establecida
+[2025-10-14 21:26:57] redirectIfNotLoggedIn called
+[2025-10-14 21:26:57] isLoggedIn check: TRUE
+[2025-10-14 21:27:07] Auth: Conexión a BD establecida
+[2025-10-14 21:27:07] redirectIfNotLoggedIn called
+[2025-10-14 21:27:07] isLoggedIn check: TRUE
+[2025-10-14 21:27:17] Auth: Conexión a BD establecida
+[2025-10-14 21:27:17] redirectIfNotLoggedIn called
+[2025-10-14 21:27:17] isLoggedIn check: TRUE
+[2025-10-14 21:27:27] Auth: Conexión a BD establecida
+[2025-10-14 21:27:27] redirectIfNotLoggedIn called
+[2025-10-14 21:27:27] isLoggedIn check: TRUE
+[2025-10-14 21:27:41] Auth: Conexión a BD establecida
+[2025-10-14 21:27:41] redirectIfNotLoggedIn called
+[2025-10-14 21:27:41] isLoggedIn check: TRUE
+[2025-10-14 21:27:47] Auth: Conexión a BD establecida
+[2025-10-14 21:27:47] redirectIfNotLoggedIn called
+[2025-10-14 21:27:47] isLoggedIn check: TRUE
+[2025-10-14 21:27:57] Auth: Conexión a BD establecida
+[2025-10-14 21:27:57] redirectIfNotLoggedIn called
+[2025-10-14 21:27:57] isLoggedIn check: TRUE
+[2025-10-14 21:28:07] Auth: Conexión a BD establecida
+[2025-10-14 21:28:07] redirectIfNotLoggedIn called
+[2025-10-14 21:28:07] isLoggedIn check: TRUE
+[2025-10-14 21:28:17] Auth: Conexión a BD establecida
+[2025-10-14 21:28:17] redirectIfNotLoggedIn called
+[2025-10-14 21:28:17] isLoggedIn check: TRUE
+[2025-10-14 21:28:27] Auth: Conexión a BD establecida
+[2025-10-14 21:28:27] redirectIfNotLoggedIn called
+[2025-10-14 21:28:27] isLoggedIn check: TRUE
+[2025-10-14 21:28:37] Auth: Conexión a BD establecida
+[2025-10-14 21:28:37] redirectIfNotLoggedIn called
+[2025-10-14 21:28:37] isLoggedIn check: TRUE
+[2025-10-14 21:29:46] Auth: Conexión a BD establecida
+[2025-10-14 21:29:46] redirectIfNotLoggedIn called
+[2025-10-14 21:29:46] isLoggedIn check: TRUE
+[2025-10-14 21:30:46] Auth: Conexión a BD establecida
+[2025-10-14 21:30:46] redirectIfNotLoggedIn called
+[2025-10-14 21:30:46] isLoggedIn check: TRUE
+[2025-10-14 21:31:46] Auth: Conexión a BD establecida
+[2025-10-14 21:31:46] redirectIfNotLoggedIn called
+[2025-10-14 21:31:46] isLoggedIn check: TRUE
+[2025-10-14 21:32:46] Auth: Conexión a BD establecida
+[2025-10-14 21:32:46] redirectIfNotLoggedIn called
+[2025-10-14 21:32:46] isLoggedIn check: TRUE

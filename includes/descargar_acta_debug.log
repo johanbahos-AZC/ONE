@@ -1,0 +1,606 @@
+2025-09-10 19:23:20 - === DESCARGAR_ACTA INICIADO ===
+2025-09-10 19:23:20 - GET: Array
+(
+    [hash] => 4c75238d6d9af68c59b8a53539f59d0c23f4928cb596fd58427a14dbdf90dd5c
+)
+
+2025-09-10 19:23:20 - Solicitando archivo con hash: 4c75238d6d9af68c59b8a53539f59d0c23f4928cb596fd58427a14dbdf90dd5c, usuario: 13
+2025-09-10 19:25:00 - === DESCARGAR_ACTA INICIADO ===
+2025-09-10 19:25:00 - GET: Array
+(
+    [hash] => 19e970a8b87fe9a0ebced4c4c435e9cc8a9e48911d9a4ebf8dfb4dc53545d108
+)
+
+2025-09-10 19:25:00 - Solicitando archivo con hash: 19e970a8b87fe9a0ebced4c4c435e9cc8a9e48911d9a4ebf8dfb4dc53545d108, usuario: 13
+2025-09-10 20:32:53 - === DESCARGAR_ACTA INICIADO ===
+2025-09-10 20:32:53 - GET: Array
+(
+    [hash] => ff1f144c8da57aa250bcda4b3fd2da28096c15fce69e471b965f7028f439cbc1
+)
+
+2025-09-10 20:32:53 - Solicitando archivo con hash: ff1f144c8da57aa250bcda4b3fd2da28096c15fce69e471b965f7028f439cbc1, usuario: 13
+2025-09-10 21:23:57 - === DESCARGAR_ACTA INICIADO ===
+2025-09-10 21:23:57 - GET: Array
+(
+    [hash] => 6107ddbc6f40343a4fce04512685128d4a07f62089319f243fbc6cdd6f04223c
+)
+
+2025-09-10 21:23:57 - Solicitando archivo con hash: 6107ddbc6f40343a4fce04512685128d4a07f62089319f243fbc6cdd6f04223c, usuario: 13
+2025-09-10 21:29:56 - === DESCARGAR_ACTA INICIADO ===
+2025-09-10 21:29:56 - GET: Array
+(
+    [hash] => 884a9f16f21fc2328356f596348f23893122cfd8ba0dff20540b8adc50ff432b
+)
+
+2025-09-10 21:29:56 - Solicitando archivo con hash: 884a9f16f21fc2328356f596348f23893122cfd8ba0dff20540b8adc50ff432b, usuario: 13
+2025-09-10 21:41:16 - === DESCARGAR_ACTA INICIADO ===
+2025-09-10 21:41:16 - GET: Array
+(
+    [hash] => a95a7a68dde03ef4fe098695b888c9721c1cddde3897856c3e89b739a76903d3
+)
+
+2025-09-10 21:41:16 - Solicitando archivo con hash: a95a7a68dde03ef4fe098695b888c9721c1cddde3897856c3e89b739a76903d3, usuario: 13
+2025-09-10 21:43:26 - === DESCARGAR_ACTA INICIADO ===
+2025-09-10 21:43:26 - GET: Array
+(
+    [hash] => 285fe8fdefe956abcf935e7e9d071742e15b9cecb31aae41fd60d88211315c6f
+)
+
+2025-09-10 21:43:26 - Solicitando archivo con hash: 285fe8fdefe956abcf935e7e9d071742e15b9cecb31aae41fd60d88211315c6f, usuario: 13
+2025-09-10 21:46:40 - === DESCARGAR_ACTA INICIADO ===
+2025-09-10 21:46:40 - GET: Array
+(
+    [hash] => c3507b5475239c7f48377e47ddec43b1eb71bbdcf8cb853d69bf3d0ef393ebd7
+)
+
+2025-09-10 21:46:40 - Solicitando archivo con hash: c3507b5475239c7f48377e47ddec43b1eb71bbdcf8cb853d69bf3d0ef393ebd7, usuario: 13
+2025-09-10 21:47:40 - === DESCARGAR_ACTA INICIADO ===
+2025-09-10 21:47:40 - GET: Array
+(
+    [hash] => 4206246565ce02160bf5c3f453bc1782fb1685c7e1a263b5e671a20f7d3ab737
+)
+
+2025-09-10 21:47:40 - Solicitando archivo con hash: 4206246565ce02160bf5c3f453bc1782fb1685c7e1a263b5e671a20f7d3ab737, usuario: 13
+2025-09-10 21:54:00 - === DESCARGAR_ACTA INICIADO ===
+2025-09-10 21:54:00 - GET: Array
+(
+    [hash] => 20b9d4d793504def126270c7c0cafb67e57db40cee4a1f4a72749e45d4a4f13a
+)
+
+2025-09-10 21:54:00 - Solicitando archivo con hash: 20b9d4d793504def126270c7c0cafb67e57db40cee4a1f4a72749e45d4a4f13a, usuario: 13
+2025-09-10 21:55:11 - === DESCARGAR_ACTA INICIADO ===
+2025-09-10 21:55:11 - GET: Array
+(
+    [hash] => fe54eb8788ddb8b3396c00ce724fc850886fa028c4a3d5c8889359ddff008b06
+)
+
+2025-09-10 21:55:11 - Solicitando archivo con hash: fe54eb8788ddb8b3396c00ce724fc850886fa028c4a3d5c8889359ddff008b06, usuario: 13
+2025-09-10 21:57:36 - === DESCARGAR_ACTA INICIADO ===
+2025-09-10 21:57:36 - GET: Array
+(
+    [hash] => 5502d4ba69a57801169079319397770008e74cfca18df92bd1da55f00d4f6a7e
+)
+
+2025-09-10 21:57:36 - Solicitando archivo con hash: 5502d4ba69a57801169079319397770008e74cfca18df92bd1da55f00d4f6a7e, usuario: 13
+2025-09-10 21:59:31 - === DESCARGAR_ACTA INICIADO ===
+2025-09-10 21:59:31 - GET: Array
+(
+    [hash] => 0c3a20d0b8608bd51513e08253522c8bcafe56bf38c812f7bf3cc2dfa1932b18
+)
+
+2025-09-10 21:59:31 - Solicitando archivo con hash: 0c3a20d0b8608bd51513e08253522c8bcafe56bf38c812f7bf3cc2dfa1932b18, usuario: 13
+2025-09-10 22:00:50 - === DESCARGAR_ACTA INICIADO ===
+2025-09-10 22:00:50 - GET: Array
+(
+    [hash] => 43330a5c7ab26290e9ebfac1a0c32e8ccc654058ec15c3be33ec8687e2088367
+)
+
+2025-09-10 22:00:50 - Solicitando archivo con hash: 43330a5c7ab26290e9ebfac1a0c32e8ccc654058ec15c3be33ec8687e2088367, usuario: 13
+2025-09-10 22:10:58 - === DESCARGAR_ACTA INICIADO ===
+2025-09-10 22:10:58 - GET: Array
+(
+    [hash] => 4632233173f0d1f8e601adbbbbafd079df012aae20aa884d36c172495b92a1eb
+)
+
+2025-09-10 22:10:58 - Solicitando archivo con hash: 4632233173f0d1f8e601adbbbbafd079df012aae20aa884d36c172495b92a1eb, usuario: 13
+2025-09-10 22:11:50 - === DESCARGAR_ACTA INICIADO ===
+2025-09-10 22:11:50 - GET: Array
+(
+    [hash] => 44aba3a090cfb4401769c9d2d51daec0a94ecc307452de64b94d208f5c443411
+)
+
+2025-09-10 22:11:50 - Solicitando archivo con hash: 44aba3a090cfb4401769c9d2d51daec0a94ecc307452de64b94d208f5c443411, usuario: 13
+2025-09-10 22:12:31 - === DESCARGAR_ACTA INICIADO ===
+2025-09-10 22:12:31 - GET: Array
+(
+    [hash] => f86b6bb984e621a1d053aeff0689d4baacf0c5003a16fdffe5b7a4b8efd94ce4
+)
+
+2025-09-10 22:12:31 - Solicitando archivo con hash: f86b6bb984e621a1d053aeff0689d4baacf0c5003a16fdffe5b7a4b8efd94ce4, usuario: 13
+2025-09-10 22:12:53 - === DESCARGAR_ACTA INICIADO ===
+2025-09-10 22:12:53 - GET: Array
+(
+    [hash] => 698caa34d357df99752133a28746bad466c3e510a3edec6ad5e551c0dc2d9800
+)
+
+2025-09-10 22:12:54 - Solicitando archivo con hash: 698caa34d357df99752133a28746bad466c3e510a3edec6ad5e551c0dc2d9800, usuario: 13
+2025-09-10 22:13:22 - === DESCARGAR_ACTA INICIADO ===
+2025-09-10 22:13:22 - GET: Array
+(
+    [hash] => 92876563dedf1d0903745862e64d0b443f11bea1be71b0a82aa71c36f423ab4c
+)
+
+2025-09-10 22:13:22 - Solicitando archivo con hash: 92876563dedf1d0903745862e64d0b443f11bea1be71b0a82aa71c36f423ab4c, usuario: 13
+2025-09-10 22:13:48 - === DESCARGAR_ACTA INICIADO ===
+2025-09-10 22:13:48 - GET: Array
+(
+    [hash] => 2709aac285938446d7bef0a99e00669bd1c80ef8c0c2f37976ffe100b97d1ca5
+)
+
+2025-09-10 22:13:48 - Solicitando archivo con hash: 2709aac285938446d7bef0a99e00669bd1c80ef8c0c2f37976ffe100b97d1ca5, usuario: 13
+2025-09-10 22:14:13 - === DESCARGAR_ACTA INICIADO ===
+2025-09-10 22:14:13 - GET: Array
+(
+    [hash] => 7ab79cdbd9a382c498343aae6aa39ac4a767f405aedc8d57beaf8d850700946f
+)
+
+2025-09-10 22:14:13 - Solicitando archivo con hash: 7ab79cdbd9a382c498343aae6aa39ac4a767f405aedc8d57beaf8d850700946f, usuario: 13
+2025-09-10 22:14:32 - === DESCARGAR_ACTA INICIADO ===
+2025-09-10 22:14:32 - GET: Array
+(
+    [hash] => 5f14110017c9293313f46f8db12e31e3d9ad79a38dad833ed40ebf4f6a508b8f
+)
+
+2025-09-10 22:14:32 - Solicitando archivo con hash: 5f14110017c9293313f46f8db12e31e3d9ad79a38dad833ed40ebf4f6a508b8f, usuario: 13
+2025-09-10 22:15:49 - === DESCARGAR_ACTA INICIADO ===
+2025-09-10 22:15:49 - GET: Array
+(
+    [hash] => 958cb2e3c141dfad721b65d22d29de7443d80a055f91254b617c707cd3aa709d
+)
+
+2025-09-10 22:15:49 - Solicitando archivo con hash: 958cb2e3c141dfad721b65d22d29de7443d80a055f91254b617c707cd3aa709d, usuario: 13
+2025-09-10 22:17:53 - === DESCARGAR_ACTA INICIADO ===
+2025-09-10 22:17:53 - GET: Array
+(
+    [hash] => b54205218bdca00e1690da34bd0dfc2c40e2fab26bddb29f6d132c74f2673ecb
+)
+
+2025-09-10 22:17:53 - Solicitando archivo con hash: b54205218bdca00e1690da34bd0dfc2c40e2fab26bddb29f6d132c74f2673ecb, usuario: 13
+2025-09-10 22:19:29 - === DESCARGAR_ACTA INICIADO ===
+2025-09-10 22:19:29 - GET: Array
+(
+    [hash] => b4bcc24b7e4f9f76972fb0272c6ca4a9205a5da1ab6ffe2457620a70abcfbcd8
+)
+
+2025-09-10 22:19:29 - Solicitando archivo con hash: b4bcc24b7e4f9f76972fb0272c6ca4a9205a5da1ab6ffe2457620a70abcfbcd8, usuario: 13
+2025-09-10 22:23:48 - === DESCARGAR_ACTA INICIADO ===
+2025-09-10 22:23:48 - GET: Array
+(
+    [hash] => 5a57da35760034ae2b3278c4e4903d10d8b8bd36e354edf8746a36fccbf556a1
+)
+
+2025-09-10 22:23:48 - Solicitando archivo con hash: 5a57da35760034ae2b3278c4e4903d10d8b8bd36e354edf8746a36fccbf556a1, usuario: 13
+2025-09-10 22:29:14 - === DESCARGAR_ACTA INICIADO ===
+2025-09-10 22:29:14 - GET: Array
+(
+    [hash] => 35729b5ca162889905692d69e5c7bc0baefb5d6e542a7572f8313d995654af11
+)
+
+2025-09-10 22:29:14 - Solicitando archivo con hash: 35729b5ca162889905692d69e5c7bc0baefb5d6e542a7572f8313d995654af11, usuario: 13
+2025-09-10 22:30:23 - === DESCARGAR_ACTA INICIADO ===
+2025-09-10 22:30:23 - GET: Array
+(
+    [hash] => e72871af72b61817eee1b446581ec8af4e8efeda9e5bf1a935c7a7ac5be9565f
+)
+
+2025-09-10 22:30:23 - Solicitando archivo con hash: e72871af72b61817eee1b446581ec8af4e8efeda9e5bf1a935c7a7ac5be9565f, usuario: 13
+2025-09-10 22:31:07 - === DESCARGAR_ACTA INICIADO ===
+2025-09-10 22:31:07 - GET: Array
+(
+    [hash] => 087892f9bdac05678d08afc73196b5b2f86b8d8d11bb1db5c41b376a8a3a4d25
+)
+
+2025-09-10 22:31:07 - Solicitando archivo con hash: 087892f9bdac05678d08afc73196b5b2f86b8d8d11bb1db5c41b376a8a3a4d25, usuario: 13
+2025-09-10 22:35:44 - === DESCARGAR_ACTA INICIADO ===
+2025-09-10 22:35:44 - GET: Array
+(
+    [hash] => 88acbb9f08d5feb4c1d3f3da51b76f45b8a6f9a9200e67d6cab4c540579efe32
+)
+
+2025-09-10 22:35:44 - Solicitando archivo con hash: 88acbb9f08d5feb4c1d3f3da51b76f45b8a6f9a9200e67d6cab4c540579efe32, usuario: 13
+2025-09-10 22:38:36 - === DESCARGAR_ACTA INICIADO ===
+2025-09-10 22:38:36 - GET: Array
+(
+    [hash] => 0be119f88b3c420b973320e59d422257ee1f5608487f608274061c54424db71d
+)
+
+2025-09-10 22:38:36 - Solicitando archivo con hash: 0be119f88b3c420b973320e59d422257ee1f5608487f608274061c54424db71d, usuario: 13
+2025-09-10 22:46:50 - === DESCARGAR_ACTA INICIADO ===
+2025-09-10 22:46:50 - GET: Array
+(
+    [hash] => e8dae3148b63a4867572ae1e81a176d27ad67893fbd23eddc1b61039169c7a32
+)
+
+2025-09-10 22:46:50 - Solicitando archivo con hash: e8dae3148b63a4867572ae1e81a176d27ad67893fbd23eddc1b61039169c7a32, usuario: 13
+2025-09-10 22:48:35 - === DESCARGAR_ACTA INICIADO ===
+2025-09-10 22:48:35 - GET: Array
+(
+    [hash] => af4ece1b93500428bac5ae46b27082bcf7910a0ef94b6478484e5f3e14314bd7
+)
+
+2025-09-10 22:48:35 - Solicitando archivo con hash: af4ece1b93500428bac5ae46b27082bcf7910a0ef94b6478484e5f3e14314bd7, usuario: 13
+2025-09-10 22:54:55 - === DESCARGAR_ACTA INICIADO ===
+2025-09-10 22:54:55 - GET: Array
+(
+    [hash] => 7106da406b7d30c93ec01e34f09e72031a98e03f5f44f97f8d53d0d3dff5ddd5
+)
+
+2025-09-10 22:54:55 - Solicitando archivo con hash: 7106da406b7d30c93ec01e34f09e72031a98e03f5f44f97f8d53d0d3dff5ddd5, usuario: 13
+2025-09-10 23:00:52 - === DESCARGAR_ACTA INICIADO ===
+2025-09-10 23:00:52 - GET: Array
+(
+    [hash] => 15add1cd9bc9f02c91128156a87664d94503244fc6a01342983166a6e085aa54
+)
+
+2025-09-10 23:00:52 - Solicitando archivo con hash: 15add1cd9bc9f02c91128156a87664d94503244fc6a01342983166a6e085aa54, usuario: 13
+2025-09-10 23:01:47 - === DESCARGAR_ACTA INICIADO ===
+2025-09-10 23:01:47 - GET: Array
+(
+    [hash] => f185c4abd285e51fcc05ca4afd20694ed7d3b5c8ea4faad8f0eb9850eb5f1694
+)
+
+2025-09-10 23:01:47 - Solicitando archivo con hash: f185c4abd285e51fcc05ca4afd20694ed7d3b5c8ea4faad8f0eb9850eb5f1694, usuario: 13
+2025-09-10 23:02:15 - === DESCARGAR_ACTA INICIADO ===
+2025-09-10 23:02:15 - GET: Array
+(
+    [hash] => fc737df4a71caf1d28d45643fb314b037c4eb1bf5fce4de66e07ea901f0b9642
+)
+
+2025-09-10 23:02:15 - Solicitando archivo con hash: fc737df4a71caf1d28d45643fb314b037c4eb1bf5fce4de66e07ea901f0b9642, usuario: 13
+2025-09-10 23:02:54 - === DESCARGAR_ACTA INICIADO ===
+2025-09-10 23:02:54 - GET: Array
+(
+    [hash] => f1aaf1101acebab7cd615fe4e524c435132e684491f7735c9ec1b3fb60d041fe
+)
+
+2025-09-10 23:02:54 - Solicitando archivo con hash: f1aaf1101acebab7cd615fe4e524c435132e684491f7735c9ec1b3fb60d041fe, usuario: 13
+2025-09-10 23:03:16 - === DESCARGAR_ACTA INICIADO ===
+2025-09-10 23:03:16 - GET: Array
+(
+    [hash] => 689743305081306cf23fc7671d8a8ab26e191f6e9a7efa802a27ffe4231d1e67
+)
+
+2025-09-10 23:03:16 - Solicitando archivo con hash: 689743305081306cf23fc7671d8a8ab26e191f6e9a7efa802a27ffe4231d1e67, usuario: 13
+2025-09-10 23:05:13 - === DESCARGAR_ACTA INICIADO ===
+2025-09-10 23:05:13 - GET: Array
+(
+    [hash] => 6d653a31969d65c16c575237898016c10e84ad9acd980b10d8832926bd53783f
+)
+
+2025-09-10 23:05:13 - Solicitando archivo con hash: 6d653a31969d65c16c575237898016c10e84ad9acd980b10d8832926bd53783f, usuario: 13
+2025-09-10 23:14:48 - === DESCARGAR_ACTA INICIADO ===
+2025-09-10 23:14:48 - GET: Array
+(
+    [hash] => 0e139fbf8d6a880c29bc7cd46c7ebb7d9c227051392be17c468b8f6fca65ceed
+)
+
+2025-09-10 23:14:48 - Solicitando archivo con hash: 0e139fbf8d6a880c29bc7cd46c7ebb7d9c227051392be17c468b8f6fca65ceed, usuario: 13
+2025-09-10 23:16:37 - === DESCARGAR_ACTA INICIADO ===
+2025-09-10 23:16:37 - GET: Array
+(
+    [hash] => c29a9f44ce4ffbbe7a35305fd1e4799fea308fbaf2325e9ef96ae486d30865b2
+)
+
+2025-09-10 23:16:37 - Solicitando archivo con hash: c29a9f44ce4ffbbe7a35305fd1e4799fea308fbaf2325e9ef96ae486d30865b2, usuario: 13
+2025-09-10 23:16:37 - MODO PRUEBA: Saltando validaciones de permisos
+[10-Sep-2025 23:16:37 UTC] PHP Fatal error:  Uncaught Error: Cannot access private property Functions::$conn in /home/www/inventario.azc.com.co/includes/descargar_acta.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/www/inventario.azc.com.co/includes/descargar_acta.php on line 49
+2025-09-10 23:16:40 - === DESCARGAR_ACTA INICIADO ===
+2025-09-10 23:16:40 - GET: Array
+(
+    [hash] => c29a9f44ce4ffbbe7a35305fd1e4799fea308fbaf2325e9ef96ae486d30865b2
+)
+
+2025-09-10 23:16:40 - Solicitando archivo con hash: c29a9f44ce4ffbbe7a35305fd1e4799fea308fbaf2325e9ef96ae486d30865b2, usuario: 13
+2025-09-10 23:16:40 - MODO PRUEBA: Saltando validaciones de permisos
+[10-Sep-2025 23:16:40 UTC] PHP Fatal error:  Uncaught Error: Cannot access private property Functions::$conn in /home/www/inventario.azc.com.co/includes/descargar_acta.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/www/inventario.azc.com.co/includes/descargar_acta.php on line 49
+2025-09-10 23:18:34 - === DESCARGAR_ACTA INICIADO ===
+2025-09-10 23:18:34 - GET: Array
+(
+    [hash] => 0c3a20d0b8608bd51513e08253522c8bcafe56bf38c812f7bf3cc2dfa1932b18
+)
+
+2025-09-10 23:18:34 - Solicitando archivo con hash: 0c3a20d0b8608bd51513e08253522c8bcafe56bf38c812f7bf3cc2dfa1932b18, usuario: 13
+2025-09-11 16:43:49 - === DESCARGAR_ACTA INICIADO ===
+2025-09-11 16:43:49 - GET: Array
+(
+    [hash] => 37e81f94e3fb24a697fcb3f9a30c7b3649b457d3a21200821ce5d77142e0ac59
+)
+
+2025-09-11 16:43:49 - Solicitando archivo con hash: 37e81f94e3fb24a697fcb3f9a30c7b3649b457d3a21200821ce5d77142e0ac59, usuario: 13
+2025-09-11 17:07:58 - === DESCARGAR_ACTA INICIADO ===
+2025-09-11 17:07:58 - GET: Array
+(
+    [hash] => 160db0485866c1f86db58c6d53ccf06b52ceeefa7c43cdd16d5109019f08d6ef
+)
+
+2025-09-11 17:07:58 - Solicitando archivo con hash: 160db0485866c1f86db58c6d53ccf06b52ceeefa7c43cdd16d5109019f08d6ef, usuario: 13
+2025-09-11 17:20:41 - === DESCARGAR_ACTA INICIADO ===
+2025-09-11 17:20:41 - GET: Array
+(
+    [hash] => 7d0175ffe9ed3c292bc7e60faa43969f0e91db357ea25a051910a00852bb101e
+)
+
+2025-09-11 17:20:41 - Solicitando archivo con hash: 7d0175ffe9ed3c292bc7e60faa43969f0e91db357ea25a051910a00852bb101e, usuario: 13
+2025-09-11 20:17:27 - === DESCARGAR_ACTA INICIADO ===
+2025-09-11 20:17:27 - GET: Array
+(
+    [hash] => 5605d30ef1af72e07b51dbd51f9a075b81294d15f18ce96779bb1b7b234ef820
+)
+
+2025-09-11 20:17:27 - Solicitando archivo con hash: 5605d30ef1af72e07b51dbd51f9a075b81294d15f18ce96779bb1b7b234ef820, usuario: 13
+2025-09-11 20:18:26 - === DESCARGAR_ACTA INICIADO ===
+2025-09-11 20:18:26 - GET: Array
+(
+    [hash] => f67e0b365f9e32500a812f1f1ce7d35f46a33680d25579782106b51cc6b55d3b
+)
+
+2025-09-11 20:18:26 - Solicitando archivo con hash: f67e0b365f9e32500a812f1f1ce7d35f46a33680d25579782106b51cc6b55d3b, usuario: 13
+2025-09-11 20:18:55 - === DESCARGAR_ACTA INICIADO ===
+2025-09-11 20:18:55 - GET: Array
+(
+    [hash] => e498e16c8943c7952d74aa1ca6c8c4c50c9972c1f8aa02fb4a859bf9775a6c64
+)
+
+2025-09-11 20:18:55 - Solicitando archivo con hash: e498e16c8943c7952d74aa1ca6c8c4c50c9972c1f8aa02fb4a859bf9775a6c64, usuario: 13
+2025-09-11 20:19:45 - === DESCARGAR_ACTA INICIADO ===
+2025-09-11 20:19:45 - GET: Array
+(
+    [hash] => 156546e094a09a128df8bc5bca8cc73fca6c016178145cd66e25d746ca7c91c3
+)
+
+2025-09-11 20:19:45 - Solicitando archivo con hash: 156546e094a09a128df8bc5bca8cc73fca6c016178145cd66e25d746ca7c91c3, usuario: 13
+2025-09-11 20:21:48 - === DESCARGAR_ACTA INICIADO ===
+2025-09-11 20:21:48 - GET: Array
+(
+    [hash] => 3c50c0fda253d3d8b411cd029eced02b46e695d3258f56d60021d54acf187ef2
+)
+
+2025-09-11 20:21:48 - Solicitando archivo con hash: 3c50c0fda253d3d8b411cd029eced02b46e695d3258f56d60021d54acf187ef2, usuario: 13
+2025-09-11 20:27:55 - === DESCARGAR_ACTA INICIADO ===
+2025-09-11 20:27:55 - GET: Array
+(
+    [hash] => 7d88836a36f122d2c2b52cace53e3d3111f7fd64fb90273ec4b838a49ad74418
+)
+
+2025-09-11 20:27:55 - Solicitando archivo con hash: 7d88836a36f122d2c2b52cace53e3d3111f7fd64fb90273ec4b838a49ad74418, usuario: 13
+2025-09-11 20:32:38 - === DESCARGAR_ACTA INICIADO ===
+2025-09-11 20:32:38 - GET: Array
+(
+    [hash] => 33e0deecf795275d8043381c1b255526a31a25c7ae393ac44e8707b88a4b66db
+)
+
+2025-09-11 20:32:38 - Solicitando archivo con hash: 33e0deecf795275d8043381c1b255526a31a25c7ae393ac44e8707b88a4b66db, usuario: 13
+2025-09-11 22:01:09 - === DESCARGAR_ACTA INICIADO ===
+2025-09-11 22:01:09 - GET: Array
+(
+    [hash] => 3e60d0e0ffc214c27d48e73edd2a49c4efb7364d7cf0e7d87eb3274da339fe2d
+)
+
+2025-09-11 22:01:09 - Solicitando archivo con hash: 3e60d0e0ffc214c27d48e73edd2a49c4efb7364d7cf0e7d87eb3274da339fe2d, usuario: 13
+2025-09-15 19:36:31 - === DESCARGAR_ACTA INICIADO ===
+2025-09-15 19:36:31 - GET: Array
+(
+    [hash] => fc312dee85d04b897f94b043bd400e16287b5b50b472c8b4e57f92c370af5b92
+)
+
+2025-09-15 19:36:31 - Solicitando archivo con hash: fc312dee85d04b897f94b043bd400e16287b5b50b472c8b4e57f92c370af5b92, usuario: 13
+2025-09-15 19:38:57 - === DESCARGAR_ACTA INICIADO ===
+2025-09-15 19:38:57 - GET: Array
+(
+    [hash] => c341a91827da2a7ef7bb59f0e2a795fe14482c90247465e8180872457d1bd034
+)
+
+2025-09-15 19:38:57 - Solicitando archivo con hash: c341a91827da2a7ef7bb59f0e2a795fe14482c90247465e8180872457d1bd034, usuario: 13
+2025-09-15 22:11:31 - === DESCARGAR_ACTA INICIADO ===
+2025-09-15 22:11:31 - GET: Array
+(
+    [hash] => fb63cf5fd0edd748c274a86f4524768090cb467a3f9938a90739b925d3d10b5e
+)
+
+2025-09-15 22:11:31 - Solicitando archivo con hash: fb63cf5fd0edd748c274a86f4524768090cb467a3f9938a90739b925d3d10b5e, usuario: 13
+2025-09-17 13:33:51 - === DESCARGAR_ACTA INICIADO ===
+2025-09-17 13:33:51 - GET: Array
+(
+    [hash] => c341a91827da2a7ef7bb59f0e2a795fe14482c90247465e8180872457d1bd034
+)
+
+2025-09-17 13:33:51 - Solicitando archivo con hash: c341a91827da2a7ef7bb59f0e2a795fe14482c90247465e8180872457d1bd034, usuario: 13
+2025-09-20 16:57:49 - === DESCARGAR_ACTA INICIADO ===
+2025-09-20 16:57:49 - GET: Array
+(
+    [hash] => 9cd2b02b30a1681ee12b676c8125a284fdc048988e268d0e6a67aaea9b2ac205
+)
+
+2025-09-20 16:57:49 - Solicitando archivo con hash: 9cd2b02b30a1681ee12b676c8125a284fdc048988e268d0e6a67aaea9b2ac205, usuario: 30
+2025-09-23 13:17:43 - === DESCARGAR_ACTA INICIADO ===
+2025-09-23 13:17:43 - GET: Array
+(
+    [hash] => 4dd314908dcb8b77c298070faf10b33af2732eb292cb5fd7d3ecfe8e0da868be
+)
+
+2025-09-23 13:17:43 - Solicitando archivo con hash: 4dd314908dcb8b77c298070faf10b33af2732eb292cb5fd7d3ecfe8e0da868be, usuario: 13
+2025-09-23 13:19:11 - === DESCARGAR_ACTA INICIADO ===
+2025-09-23 13:19:11 - GET: Array
+(
+    [hash] => 8decbc197b8aa2165039a9d73fffd1431ae06c4387a23c824d78ea0e4c987387
+)
+
+2025-09-23 13:19:11 - Solicitando archivo con hash: 8decbc197b8aa2165039a9d73fffd1431ae06c4387a23c824d78ea0e4c987387, usuario: 13
+2025-09-23 14:29:02 - === DESCARGAR_ACTA INICIADO ===
+2025-09-23 14:29:02 - GET: Array
+(
+    [hash] => 250d07097f401103eb211e07851ac2f9962a4ab89f327d2840df9e2aea4c4ffa
+)
+
+2025-09-23 14:29:02 - Solicitando archivo con hash: 250d07097f401103eb211e07851ac2f9962a4ab89f327d2840df9e2aea4c4ffa, usuario: 13
+2025-09-23 14:51:53 - === DESCARGAR_ACTA INICIADO ===
+2025-09-23 14:51:53 - GET: Array
+(
+    [hash] => 4b4105c08d3125835cd67a1d91c86ec651882d9c9919eb786565d3ae6ae97e8c
+)
+
+2025-09-23 14:51:53 - Solicitando archivo con hash: 4b4105c08d3125835cd67a1d91c86ec651882d9c9919eb786565d3ae6ae97e8c, usuario: 13
+2025-09-25 16:24:25 - === DESCARGAR_ACTA INICIADO ===
+2025-09-25 16:24:25 - GET: Array
+(
+    [hash] => c7aeed92c903fdabaea3d2a1235398da4029c63c749c890bc6cff6501b6464db
+)
+
+2025-09-25 16:24:25 - Solicitando archivo con hash: c7aeed92c903fdabaea3d2a1235398da4029c63c749c890bc6cff6501b6464db, usuario: 30
+2025-09-25 16:26:33 - === DESCARGAR_ACTA INICIADO ===
+2025-09-25 16:26:33 - GET: Array
+(
+    [hash] => c7aeed92c903fdabaea3d2a1235398da4029c63c749c890bc6cff6501b6464db
+)
+
+2025-09-25 16:26:33 - Solicitando archivo con hash: c7aeed92c903fdabaea3d2a1235398da4029c63c749c890bc6cff6501b6464db, usuario: 30
+2025-09-25 16:26:33 - ERROR: Archivo no encontrado
+2025-09-25 16:26:39 - === DESCARGAR_ACTA INICIADO ===
+2025-09-25 16:26:39 - GET: Array
+(
+    [hash] => ebd5ea2fa025e029761f4d6c9bfe815f2cadc5136a98f8cdddd77ee8939ea650
+)
+
+2025-09-25 16:26:39 - Solicitando archivo con hash: ebd5ea2fa025e029761f4d6c9bfe815f2cadc5136a98f8cdddd77ee8939ea650, usuario: 30
+2025-09-26 16:10:36 - === DESCARGAR_ACTA INICIADO ===
+2025-09-26 16:10:36 - GET: Array
+(
+    [hash] => 97bbeca173f25a070f8e06610b6c28bcf4baef50cbb043fe74649fb638decb2a
+)
+
+2025-09-26 16:10:36 - Solicitando archivo con hash: 97bbeca173f25a070f8e06610b6c28bcf4baef50cbb043fe74649fb638decb2a, usuario: 30
+2025-09-26 16:12:10 - === DESCARGAR_ACTA INICIADO ===
+2025-09-26 16:12:10 - GET: Array
+(
+    [hash] => af709dd4a5f8531cc5dd9ad28abaffa04fe0e6c33355ea05541fe08e481b354f
+)
+
+2025-09-26 16:12:10 - Solicitando archivo con hash: af709dd4a5f8531cc5dd9ad28abaffa04fe0e6c33355ea05541fe08e481b354f, usuario: 30
+2025-09-26 21:05:06 - === DESCARGAR_ACTA INICIADO ===
+2025-09-26 21:05:06 - GET: Array
+(
+    [hash] => cfb91933380b3d219806cf211f9858b61a4d1029ca1301046a55e22a86f48751
+)
+
+2025-09-26 21:05:06 - Solicitando archivo con hash: cfb91933380b3d219806cf211f9858b61a4d1029ca1301046a55e22a86f48751, usuario: 30
+2025-09-29 15:23:23 - === DESCARGAR_ACTA INICIADO ===
+2025-09-29 15:23:24 - GET: Array
+(
+    [hash] => e895d0dfda33bd394d61b5aa505fcf97fc77e3d616b6e14912d56b2568ce3d0b
+)
+
+2025-09-29 15:23:24 - Solicitando archivo con hash: e895d0dfda33bd394d61b5aa505fcf97fc77e3d616b6e14912d56b2568ce3d0b, usuario: 30
+2025-09-29 20:18:42 - === DESCARGAR_ACTA INICIADO ===
+2025-09-29 20:18:42 - GET: Array
+(
+    [hash] => f011610b1f09701eae7abdaaf8af14214b2f64e0dd58908fd92c88f3b9a8b8d6
+)
+
+2025-09-29 20:18:42 - Solicitando archivo con hash: f011610b1f09701eae7abdaaf8af14214b2f64e0dd58908fd92c88f3b9a8b8d6, usuario: 30
+2025-10-06 20:43:09 - === DESCARGAR_ACTA INICIADO ===
+2025-10-06 20:43:09 - GET: Array
+(
+    [hash] => 8e8fd631903714cc33ecf271cb1aad484d85eb810f4e78b20825b1421ed8b38c
+)
+
+2025-10-06 20:43:09 - Solicitando archivo con hash: 8e8fd631903714cc33ecf271cb1aad484d85eb810f4e78b20825b1421ed8b38c, usuario: 13
+2025-10-06 20:49:39 - === DESCARGAR_ACTA INICIADO ===
+2025-10-06 20:49:39 - GET: Array
+(
+    [hash] => d83be6bbf534c92b417dc6aecb3751c6c2ba7247406d944bea2e893e370306ce
+)
+
+2025-10-06 20:49:39 - Solicitando archivo con hash: d83be6bbf534c92b417dc6aecb3751c6c2ba7247406d944bea2e893e370306ce, usuario: 13
+2025-10-06 20:51:17 - === DESCARGAR_ACTA INICIADO ===
+2025-10-06 20:51:17 - GET: Array
+(
+    [hash] => 76ca5f97b6bfb4a9889006f4b88c4c02d7822a1645126c4c80dfe69ac6ecb73c
+)
+
+2025-10-06 20:51:17 - Solicitando archivo con hash: 76ca5f97b6bfb4a9889006f4b88c4c02d7822a1645126c4c80dfe69ac6ecb73c, usuario: 13
+2025-10-06 22:32:38 - === DESCARGAR_ACTA INICIADO ===
+2025-10-06 22:32:38 - GET: Array
+(
+    [hash] => b84f5a0dc1757ce666657771198b9763988df58890f025b18e90bf57aae8aaaa
+)
+
+2025-10-06 22:32:38 - Solicitando archivo con hash: b84f5a0dc1757ce666657771198b9763988df58890f025b18e90bf57aae8aaaa, usuario: 13
+2025-10-07 17:57:46 - === DESCARGAR_ACTA INICIADO ===
+2025-10-07 17:57:46 - GET: Array
+(
+    [hash] => bc2596dc2e2e6a8578612b1a4a8b5341325d262f7ba0488e8718f1bd25b2e7da
+)
+
+2025-10-07 17:57:46 - Solicitando archivo con hash: bc2596dc2e2e6a8578612b1a4a8b5341325d262f7ba0488e8718f1bd25b2e7da, usuario: 13
+2025-10-09 15:16:51 - === DESCARGAR_ACTA INICIADO ===
+2025-10-09 15:16:51 - GET: Array
+(
+    [hash] => 61b1674b796b426d545b49bdb7376b4828f54bb5657b5e2fe5495a1d1a00def2
+)
+
+2025-10-09 15:16:51 - Solicitando archivo con hash: 61b1674b796b426d545b49bdb7376b4828f54bb5657b5e2fe5495a1d1a00def2, usuario: 13
+2025-12-19 21:20:09 - === DESCARGAR_ACTA INICIADO ===
+2025-12-19 21:20:09 - GET: Array
+(
+    [hash] => 25f3301fd02653188ecddbbf6deec6f05959b0872192554739f268e57c329e3b
+)
+
+2025-12-19 21:20:09 - Solicitando archivo con hash: 25f3301fd02653188ecddbbf6deec6f05959b0872192554739f268e57c329e3b, usuario: 422
+2025-12-22 00:56:14 - === DESCARGAR_ACTA INICIADO ===
+2025-12-22 00:56:14 - GET: Array
+(
+    [hash] => 90f099aa5c883afbc38c36e6055fa5b74e5cbaf30c7c97060c52b2fb4afb0281
+)
+
+2025-12-22 00:56:14 - Solicitando archivo con hash: 90f099aa5c883afbc38c36e6055fa5b74e5cbaf30c7c97060c52b2fb4afb0281, usuario: 110
+2025-12-29 17:54:39 - === DESCARGAR_ACTA INICIADO ===
+2025-12-29 17:54:39 - GET: Array
+(
+    [hash] => aaaa34d4726a593e8981f1e1102cb35f7a60424af1a907f7c413d03d82dc14b8
+)
+
+2025-12-29 17:54:39 - Solicitando archivo con hash: aaaa34d4726a593e8981f1e1102cb35f7a60424af1a907f7c413d03d82dc14b8, usuario: 422
+2026-01-06 13:12:16 - === DESCARGAR_ACTA INICIADO ===
+2026-01-06 13:12:16 - GET: Array
+(
+    [hash] => 56e58093c13dbde6bedcabcee77d9780066939c0cb5bb7c2aff5ea675febe3cd
+)
+
+2026-01-06 13:12:16 - Solicitando archivo con hash: 56e58093c13dbde6bedcabcee77d9780066939c0cb5bb7c2aff5ea675febe3cd, usuario: 422
+2026-01-08 20:50:17 - === DESCARGAR_ACTA INICIADO ===
+2026-01-08 20:50:17 - GET: Array
+(
+    [hash] => b419dabc554b9bd46ed7954e21ee728273035eac66651f639808eafa931aefb1
+)
+
+2026-01-08 20:50:17 - Solicitando archivo con hash: b419dabc554b9bd46ed7954e21ee728273035eac66651f639808eafa931aefb1, usuario: 422
+2026-01-09 19:55:24 - === DESCARGAR_ACTA INICIADO ===
+2026-01-09 19:55:24 - GET: Array
+(
+    [hash] => bcc4ebfadc8e9b94cfa2b93e759ca0cdfab8cd0df4db0f545c021315928a5f47
+)
+
+2026-01-09 19:55:24 - Solicitando archivo con hash: bcc4ebfadc8e9b94cfa2b93e759ca0cdfab8cd0df4db0f545c021315928a5f47, usuario: 422
+2026-01-09 22:25:36 - === DESCARGAR_ACTA INICIADO ===
+2026-01-09 22:25:36 - GET: Array
+(
+    [hash] => 41c9e76de62d1dbae9446fa6b2650626b53fdbb03ea4fafd037f2a4e3c907f47
+)
+
+2026-01-09 22:25:36 - Solicitando archivo con hash: 41c9e76de62d1dbae9446fa6b2650626b53fdbb03ea4fafd037f2a4e3c907f47, usuario: 422
